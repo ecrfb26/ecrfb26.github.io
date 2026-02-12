@@ -1,0 +1,2 @@
+/* Widen single-page content column */
+main article.mw7 { max-width: 75rem !important; } /* ~1200px */
