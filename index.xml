@@ -68,7 +68,7 @@
       <link>/registration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/registration/</guid>
-      <description>&lt;div style=&#34;width:100%; max-width:900px; margin:auto;&#34;&gt;&#xA;&lt;iframe src=&#34;https://docs.google.com/forms/d/e/1FAIpQLSew1VsMs2311hcO7Sa6YB0J_GpocLdXSEv0YEMEe7KkBvi55Q/viewform?embedded=true&#34; &#xA;width=&#34;100%&#34; height=&#34;800&#34; frameborder=&#34;0&#34;&gt;&#xA;&lt;/iframe&gt;&#xA;&lt;/div&gt;</description>
+      <description>&lt;iframe &#xA;    src==&#34;https://docs.google.com/forms/d/e/1FAIpQLSew1VsMs2311hcO7Sa6YB0J_GpocLdXSEv0YEMEe7KkBvi55Q/viewform?embedded=true&amp;hl=en&#34;&#xA;    width=&#34;100%&#34; &#xA;    height=&#34;1200&#34; &#xA;    frameborder=&#34;0&#34; &#xA;    marginheight=&#34;0&#34; &#xA;    marginwidth=&#34;0&#34;&gt;&#xA;Loading…&#xA;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>Registration</title>
