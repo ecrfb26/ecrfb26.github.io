@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Invited Speakers on Home</title>
-    <link>/speakers/</link>
+    <link>//localhost:1313/speakers/</link>
     <description>Recent content in Invited Speakers on Home</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="/speakers/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/speakers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dumitru Calugaru</title>
-      <link>/speakers/calugaru-dumitru/</link>
+      <link>//localhost:1313/speakers/calugaru-dumitru/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/speakers/calugaru-dumitru/</guid>
+      <guid>//localhost:1313/speakers/calugaru-dumitru/</guid>
       <description>&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Maria Chatzieleftheriou</title>
-      <link>/speakers/chatzieleftheriou-maria/</link>
+      <link>//localhost:1313/speakers/chatzieleftheriou-maria/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/speakers/chatzieleftheriou-maria/</guid>
+      <guid>//localhost:1313/speakers/chatzieleftheriou-maria/</guid>
       <description>&lt;p&gt;Maria Chatzieleftheriou is &amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Daniele Guerci</title>
-      <link>/speakers/guerci-daniele/</link>
+      <link>//localhost:1313/speakers/guerci-daniele/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/speakers/guerci-daniele/</guid>
+      <guid>//localhost:1313/speakers/guerci-daniele/</guid>
       <description>&lt;p&gt;Daniele Guerci is &amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Xiangyu Luo</title>
-      <link>/speakers/luo-xiangyu/</link>
+      <link>//localhost:1313/speakers/luo-xiangyu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/speakers/luo-xiangyu/</guid>
+      <guid>//localhost:1313/speakers/luo-xiangyu/</guid>
       <description>&lt;p&gt;Xiangyu Luo is &amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Miuko Tanaka</title>
-      <link>/speakers/tanaka-miuko/</link>
+      <link>//localhost:1313/speakers/tanaka-miuko/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/speakers/tanaka-miuko/</guid>
+      <guid>//localhost:1313/speakers/tanaka-miuko/</guid>
       <description>&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fangyuan Yang</title>
-      <link>/speakers/yang-fangyuan/</link>
+      <link>//localhost:1313/speakers/yang-fangyuan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/speakers/yang-fangyuan/</guid>
+      <guid>//localhost:1313/speakers/yang-fangyuan/</guid>
       <description>&lt;p&gt;Fangyuan Yang is &amp;hellip;&lt;/p&gt;</description>
     </item>
   </channel>
