@@ -1,2 +1,22 @@
 /* Widen single-page content column */
-main article.mw7 { max-width: 75rem !important; } /* ~1200px */
+main article.mw7 { max-width: 75rem !important; }
+
+/* Navbar container stays normal size */
+.navbar-brand {
+  display: flex !important;
+  align-items: center !important;
+  gap: 6px; /* space between logo and text */
+  width: auto !important;   /* let text fit */
+  height: auto !important;  /* let text fit */
+  background-image: url("/img/logohome.png") !important;
+  background-size: 16px 16px !important; /* tiny logo size */
+  background-repeat: no-repeat !important;
+  background-position: left center !important; /* align vertically */
+  padding-left: 0 !important; /* optional, adjust if needed */
+}
+
+/* Optional: slightly adjust text size to match small logo */
+.navbar-brand span {
+  font-size: 0.9rem !important;
+  line-height: 1.2 !important;
+}
