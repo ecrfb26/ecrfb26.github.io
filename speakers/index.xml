@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Invited Speakers on ECRFB</title>
-    <link>//localhost:1313/speakers/</link>
+    <link>/speakers/</link>
     <description>Recent content in Invited Speakers on ECRFB</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/speakers/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/speakers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dumitru Calugaru</title>
-      <link>//localhost:1313/speakers/calugaru-dumitru/</link>
+      <link>/speakers/calugaru-dumitru/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/speakers/calugaru-dumitru/</guid>
+      <guid>/speakers/calugaru-dumitru/</guid>
       <description>&lt;p&gt;My research focuses on how strong electron-electron interactions and non-trivial band topology give rise to new phases of matter. As a condensed matter theorist, I use both analytical and numerical techniques to study these phenomena. I&amp;rsquo;ve worked on twisted bilayer graphene as a platform for correlated and topological effects, and explored other two-dimensional systems, including patterned and twisted heterostructures. Before joining Oxford, I studied Natural Sciences at Trinity College, Cambridge, and completed my PhD at Princeton University.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Maria Chatzieleftheriou</title>
-      <link>//localhost:1313/speakers/chatzieleftheriou-maria/</link>
+      <link>/speakers/chatzieleftheriou-maria/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/speakers/chatzieleftheriou-maria/</guid>
+      <guid>/speakers/chatzieleftheriou-maria/</guid>
       <description>&lt;p&gt;Maria Chatzieleftheriou is a CNRS researcher in the CPHT lab of École Polytechnique, Institut Polytechnique de Paris. She obtained her PhD in 2021 from ESPCI Paris and subsequently held postdoctoral positions at École Polytechnique and at Goethe University Frankfurt. Her research focuses on strongly correlated electron systems and in particular on theoretical approaches to local and non-local correlation effects, ranging from toy models to realistic material simulations. Recently, she has been working on the interplay between electronic correlations and flat bands in Kagome metals.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Daniele Guerci</title>
-      <link>//localhost:1313/speakers/guerci-daniele/</link>
+      <link>/speakers/guerci-daniele/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/speakers/guerci-daniele/</guid>
+      <guid>/speakers/guerci-daniele/</guid>
       <description>&lt;p&gt;Daniele Guerci is a postdoctoral researcher at MIT investigating unconventional superconductivity and fractionalized quantum phases through a variety of theoretical and computational methods. He received his PhD from SISSA in November 2019 and subsequently held academic positions at LPS Orsay, Université Paris Diderot, and the Flatiron Institute.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Xiangyu Luo</title>
-      <link>//localhost:1313/speakers/luo-xiangyu/</link>
+      <link>/speakers/luo-xiangyu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/speakers/luo-xiangyu/</guid>
+      <guid>/speakers/luo-xiangyu/</guid>
       <description>&lt;p&gt;Xiangyu Luo is currently a postdoctoral associate at Princeton University. His research focuses on ARPES and STM studies of quantum materials, particularly topological materials and strongly correlated electron systems. His work explores novel electronic states and emergent phenomena in condensed matter physics.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Miuko Tanaka</title>
-      <link>//localhost:1313/speakers/tanaka-miuko/</link>
+      <link>/speakers/tanaka-miuko/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/speakers/tanaka-miuko/</guid>
+      <guid>/speakers/tanaka-miuko/</guid>
       <description>&lt;p&gt;Miuko Tanaka is an assistant Professor in the University of Tokyo, Institute for Solid state physics.&#xA;She received PhD in the university of Tokyo.&#xA;After that, she joined the Engineering Quantum system group at MIT.&#xA;Her research focus is on novel measurements of van der Waals material, especially on superconductivity and magnetism.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fangyuan Yang</title>
-      <link>//localhost:1313/speakers/yang-fangyuan/</link>
+      <link>/speakers/yang-fangyuan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/speakers/yang-fangyuan/</guid>
+      <guid>/speakers/yang-fangyuan/</guid>
       <description>&lt;p&gt;Fangyuan Yang received both her B.S. and Ph.D. in Physics from Fudan University in Shanghai, China. After that, she joined the Department of Physics at the University of California, Santa Barbara as a postdoctoral researcher in 2018. Since 2023, she has been a University Assistant at the Institute of Solid State Physics at TU Wien. Her research broadly focuses on novel quantum phenomena in two-dimensional van der Waals materials. Her recent research interests include correlated topological states in the narrow electronic bands of graphene moiré heterostructures.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,36 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/speakers/calugaru-dumitru/</loc>
+    <loc>/speakers/calugaru-dumitru/</loc>
   </url><url>
-    <loc>//localhost:1313/speakers/chatzieleftheriou-maria/</loc>
+    <loc>/speakers/chatzieleftheriou-maria/</loc>
   </url><url>
-    <loc>//localhost:1313/speakers/guerci-daniele/</loc>
+    <loc>/speakers/guerci-daniele/</loc>
   </url><url>
-    <loc>//localhost:1313/speakers/luo-xiangyu/</loc>
+    <loc>/speakers/luo-xiangyu/</loc>
   </url><url>
-    <loc>//localhost:1313/speakers/tanaka-miuko/</loc>
+    <loc>/speakers/tanaka-miuko/</loc>
   </url><url>
-    <loc>//localhost:1313/speakers/yang-fangyuan/</loc>
+    <loc>/speakers/yang-fangyuan/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/contacts/</loc>
+    <loc>/contacts/</loc>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
   </url><url>
-    <loc>//localhost:1313/speakers/</loc>
+    <loc>/speakers/</loc>
   </url><url>
-    <loc>//localhost:1313/program/</loc>
+    <loc>/program/</loc>
   </url><url>
-    <loc>//localhost:1313/registration/</loc>
+    <loc>/registration/</loc>
   </url><url>
-    <loc>//localhost:1313/registration_old/</loc>
+    <loc>/registration_old/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/tags/</loc>
   </url><url>
-    <loc>//localhost:1313/information/</loc>
+    <loc>/information/</loc>
   </url><url>
-    <loc>//localhost:1313/venue/</loc>
+    <loc>/venue/</loc>
   </url>
 </urlset>
